@@ -1,0 +1,130 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Feb-12-2014 at 14:49:38 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12';
+ POST_TIME='Mar 26 2012 19:10:13';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_VER_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS10126@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins10126@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins10126@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_VER_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS12263@PTH_ORCAD_LIB_VPHAN_20140207.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins12263@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins12263@pth_orcad_lib_vphan_20140207.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_VER_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS14957@MYLIBRARY_16AUG13.CAP_VER.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins14957@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins14957@mylibrary_16aug13.\cap_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_ZENER_VER_DO-214AC_P4SMA6':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS10311@PTH_ORCAD_LIB_VPHAN_20140207.DIODE_ZENER_VER.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins10311@pth_orcad_lib_vphan_20140207.\diode_zener_ver.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins10311@pth_orcad_lib_vphan_20140207.\diode_zener_ver.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN_PCB_3X1_2.100INCH_HDR_THVT':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS10075@PTH_ORCAD_LIB_VPHAN_20140207.CONN_PCB_3X1_2.100INCH.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins10075@pth_orcad_lib_vphan_20140207.\conn_pcb_3x1_2.100inch.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins10075@pth_orcad_lib_vphan_20140207.\conn_pcb_3x1_2.100inch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN_PCB_3X1_2.100INCH_HDR_THVT':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS10093@PTH_ORCAD_LIB_VPHAN_20140207.CONN_PCB_3X1_2.100INCH.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins10093@pth_orcad_lib_vphan_20140207.\conn_pcb_3x1_2.100inch.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins10093@pth_orcad_lib_vphan_20140207.\conn_pcb_3x1_2.100inch.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_HOZ_SMT_2P5X2P0_FIT_1.0UH':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS10220@PTH_ORCAD_LIB_VPHAN_20140207.IND_HOZ.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins10220@pth_orcad_lib_vphan_20140207.\ind_hoz.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins10220@pth_orcad_lib_vphan_20140207.\ind_hoz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS11105@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins11105@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins11105@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_TH_63MIL_BLK_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS11165@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_BLK.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins11165@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins11165@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP_TH_63MIL_RED_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS11138@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_RED.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins11138@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins11138@pth_orcad_lib_vphan_20140207.\tp_th_63mil_red.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP_TH_63MIL_BLK_TP_TH_TP_TH_63M':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS11189@PTH_ORCAD_LIB_VPHAN_20140207.TP_TH_63MIL_BLK.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins11189@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins11189@pth_orcad_lib_vphan_20140207.\tp_th_63mil_blk.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_BU9000XGWZ_UCSP35L1_BU90007G':;
+
+SECTION_NUMBER 1
+ '@BU90007GWZ-E2EVK-101_SCH_REV00_2014-02-12.SCHEMATIC1(SCH_1):INS10032@PTH_ORCAD_LIB_VPHAN_20140207.IC_BU9000XGWZ.NORMAL(CHIPS)':
+ C_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):ins10032@pth_orcad_lib_vphan_20140207.\ic_bu9000xgwz.normal\(chips)',
+ P_PATH='@\bu90007gwz-e2evk-101_sch_rev00_2014-02-12\.schematic1(sch_1):page3_ins10032@pth_orcad_lib_vphan_20140207.\ic_bu9000xgwz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
